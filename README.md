@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fake Email Detector
 
 A machine learning project to detect spam emails using NLP and multiple classifiers.
@@ -21,3 +22,6 @@ A machine learning project to detect spam emails using NLP and multiple classifi
 
 ## How to Run
 1. Clone the repository:
+=======
+# Fake-email-detector
+>>>>>>> 9b4ade35ee60bde80606e53f762e0575c56759f7
