@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Fake Email Detector
 
 A machine learning project to detect spam emails using NLP and multiple classifiers.
